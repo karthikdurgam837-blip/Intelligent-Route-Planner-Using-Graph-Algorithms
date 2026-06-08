@@ -1,0 +1,6 @@
+{
+  "name": "Intelligent Route Planner",
+  "description": "An interactive city route planning simulator demonstrating classical graph algorithms like Dijkstra, A*, and multi-criteria optimization under traffic and toll constraints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
